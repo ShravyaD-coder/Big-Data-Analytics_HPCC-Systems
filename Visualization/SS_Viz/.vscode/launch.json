@@ -16,7 +16,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "SD",
+            "user": "",
             "password": ""
         },
         {
@@ -31,7 +31,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "SD",
+            "user": "",
             "password": ""
         },
         {
@@ -46,8 +46,8 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "jyothis",
-            "password": "iz1;nCJO]m&^"
+            "user": "",
+            "password": ""
         }
     ]
 }
