@@ -1,0 +1,10 @@
+IMPORT $;
+output($.File_Water.File);
+count($.File_Water.File);
+OUTPUT($.Prepare.myDataE,NAMED('CleanWater'));
+COUNT($.Prepare.myDataE);
+OUTPUT($.Prepare.myTrainData,NAMED('TrainData'));
+COUNT($.Prepare.myTrainData);
+OUTPUT($.Prepare.myTestData,NAMED('TestData'));
+COUNT($.Prepare.myTestData);
+// OUTPUT($.File_Property.File,,'~Property::BMF::Test',OVERWRITE);
