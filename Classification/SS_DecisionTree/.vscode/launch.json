@@ -2,6 +2,7 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    // Username and passwords have been deleted to maintain anonymity. Use your own values in the blank fields
     "version": "0.2.0",
     "configurations": [
 
@@ -17,7 +18,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "ShravyaD",
+            "user": "",
             "password": ""
         },
         {
@@ -32,7 +33,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "ShravyaDasu",
+            "user": "",
             "password": ""
         },
         {
@@ -47,7 +48,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "SD",
+            "user": "",
             "password": ""
         },
         {
@@ -62,8 +63,8 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "jyothis",
-            "password": "iz1;nCJO]m&^"
+            "user": "",
+            "password": ""
         }
     ]
 }
