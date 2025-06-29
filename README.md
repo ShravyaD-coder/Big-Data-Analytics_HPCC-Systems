@@ -18,7 +18,8 @@ This tool enables government agencies and policymakers to identify emerging cont
 - HPCC Machine Learning bundles (Learning Trees, Regression Forest, Linear Regression)
 - HPCC Visualizer bundle
 - VSCode
-  
+
+  The entire analysis was done on a locally deployed 1-node cluster (orchestrated using Docker and Kuberneters) and a pre-built 8-node cluster. Latest instructions on deploying a cluster    locally and spraying data onto the 8-node cluster are available in the documentation on [HPCC Systems website](https://hpccsystems.com).  
 ---
 
 ## Project Structure
